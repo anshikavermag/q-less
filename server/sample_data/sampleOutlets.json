@@ -1,0 +1,89 @@
+[
+    {
+        "name": "Fast Food Point",
+        "contact": "9876543210",
+        "status": "open",
+        "slug": "fast-food-point",
+        "image": "fast-food-point.jpg",
+        "menu_items": [
+            {
+                "name": "French Fries",
+                "price": 80,
+                "cooking_time": 15,
+                "image": "french-fries.jpg"
+            },
+            {
+                "name": "Pasta",
+                "price": 100,
+                "cooking_time": 20,
+                "image": "pasta.jpg"
+            },
+            {
+                "name": "Cheese Pizza",
+                "price": 150,
+                "cooking_time": 25,
+                "image": "cheese-pizza.jpg"
+            },
+            {
+                "name": "Idli",
+                "price": 180,
+                "cooking_time": 30,
+                "image": "idli.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Cold Brew Cafe",
+        "contact": "9632587410",
+        "status": "closed",
+        "slug": "cold-brew-cafe",
+        "image": "cold-brew-cafe.jpg",
+        "menu_items": [
+            {
+                "name": "Cappuccino",
+                "price": 50,
+                "cooking_time": 10,
+                "image": "coffee-cappuccino.jpg"
+            },
+            {
+                "name": "Frappe",
+                "price": 70,
+                "cooking_time": 15,
+                "image": "coffee-frappe.jpg"
+            },
+            {
+                "name": "Latte",
+                "price": 60,
+                "cooking_time": 10,
+                "image": "coffee-latte.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Shree Tea Spot",
+        "contact": "7654321098",
+        "status": "open",
+        "slug": "shree-tea-spot",
+        "image": "shree-tea-spot.jpg",
+        "menu_items": [
+            {
+                "name": "Masala Chai",
+                "price": 20,
+                "cooking_time": 5,
+                "image": "masala-chai.jpg"
+            },
+            {
+                "name": "Green Tea",
+                "price": 30,
+                "cooking_time": 10,
+                "image": "green-tea.jpg"
+            },
+            {
+                "name": "Special Chai",
+                "price": 10,
+                "cooking_time": 5,
+                "image": "special-chai.jpg"
+            }
+        ]
+    }
+]
